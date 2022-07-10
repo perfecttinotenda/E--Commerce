@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "s_ecommerce"
   },
   "api": {
-    "projectId": "j5dowyvc",
+    "projectId": "8wpsztxy",
     "dataset": "production"
   },
   "plugins": [

@@ -1,10 +1,10 @@
 {
-  "name": "ecommerce",
+  "name": "secommerce",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Perfect Tinotenda Mashingaidze <perfecttinotendamashingaidze@gmail.com>",
+  "author": "Excess Industries <excessindustries@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
